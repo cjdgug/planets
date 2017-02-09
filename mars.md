@@ -1,6 +1,6 @@
-### Big Heading
+# Big Heading
 ## Small Heading
-# Even smaller
+### Even smaller
 - apples
 - oranges
 - peaches
